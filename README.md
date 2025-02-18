@@ -1,7 +1,6 @@
-# PD-0228-AplicacionesWeb
+# PD-0227-ServiciosEnRed
 
-Programación didáctica para Módulo Profesional 0228 - Aplicaciones Web, correspondiente al Ciclo Formativo de Grado Medio de Sistemas Microinformáticos y Redes.
-
+Programación didáctica para Módulo Profesional 0227 - Servicios en Red, correspondiente al Ciclo Formativo de Grado Medio de Sistemas Microinformáticos y Redes.
 
 ## Makefile
 
@@ -15,6 +14,7 @@ Install fonts included in `resources/fonts/source-sans/` using this commands:
 cp resources/fonts/source-sans/* ~/.local/share/fonts 
 fc-cache -fv
 ```
+
 You also need following packages:
 
 ```bash

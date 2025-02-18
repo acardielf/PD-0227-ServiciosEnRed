@@ -14,42 +14,37 @@ Los resultados de aprendizaje ligados a este módulo están especificados en el 
 
 ## Resultado de aprendizaje 1 (RA1)
 
-Instala gestores de contenidos, identificando sus aplicaciones y configurándolos según requerimientos.
+Instala servicios de configuración dinámica, describiendo sus características y aplicaciones.
 
 ### Criterios de evaluación
 
 | Identificador | Criterio |
 | -: | ----------- |
-| `01.a` | Se ha establecido la utilidad de usar un gestor de contenidos.|
-| `01.b` |Se han identificado los requerimientos necesarios para instalar gestores de contenidos.|
-| `01.c` | Se han gestionado usuarios con roles diferentes.|
-| `01.d` | Se ha personalizado la interfaz del gestor de contenidos.|
-| `01.e` | Se han realizado pruebas de funcionamiento.|
-| `01.f` | Se han realizado tareas de actualización gestor de contenidos, especialmente las de seguridad.|
-| `01.g` | Se han instalado y configurado los módulos y menús necesarios.|
-| `01.h` | Se han activado y configurado los mecanismos de seguridad proporcionados por el propio gestor de contenidos.|
-| `01.i` |Se han habilitado foros y establecido reglas de acceso.|
-| `01.j` | Se han realizado pruebas de funcionamiento.|
-| `01.k` | Se han realizado copias de seguridad de los contenidos del gestor.|
+| `01.a` | Se ha reconocido el funcionamiento de los mecanismos automatizados de configuración de los parámetros de red. |
+| `01.b` | Se han identificado las ventajas que proporcionan. |
+| `01.c` | Se han ilustrado los procedimientos y pautas que intervienen en una solicitud de configuración de los parámetros de red. |
+| `01.d` | Se ha instalado un servicio de configuración dinámica de los parámetros de red. |
+| `01.e` | Se ha preparado el servicio para asignar la configuración básica a los sistemas de una red local. |
+| `01.f` | Se han realizado asignaciones dinámicas y estáticas. |
+| `01.g` | Se han integrado en el servicio opciones adicionales de configuración. |
+| `01.h` | Se ha verificando la correcta asignación de los parámetros. |
 
 ## Resultado de aprendizaje 2 (RA2)
 
-Instala sistemas de gestión de aprendizaje a distancia, describiendo la estructura del sitio y la jerarquía de directorios generada.
+Instala servicios de resolución de nombres, describiendo sus características y aplicaciones.
 
 ### Criterios de evaluación
 
 | Identificador | Criterio |
-| -: | -------- |
-| `02.a` | Se ha establecido la utilidad de usar un gestor de aprendizaje a distancia. |
-| `02.b` | Se ha reconocido la estructura del sitio y la jerarquía de directorios generada. |
-| `02.c` | Se han realizado modificaciones en la estética o aspecto del sitio. |
-| `02.d` | Se han manipulado y generado perfiles personalizados. |
-| `02.e` | Se ha comprobado la funcionalidad de las comunicaciones mediante foros, consultas, entre otros. |
-| `02.f` | Se han importado y exportado contenidos en distintos formatos. |
-| `02.g` | Se han realizado copias de seguridad y restauraciones. |
-| `02.h` | Se han realizado informes de acceso y utilización del sitio. |
-| `02.i` | Se ha comprobado la seguridad del sitio. |
-| `02.j` | Se ha elaborado documentación orientada a la formación de los usuarios. |
+| -: | ----------- |
+| `02.a` | Se han identificado y descrito escenarios en los que surge la necesidad de un servicio de resolución de nombres. |
+| `02.b` | Se han clasificado los principales mecanismos de resolución de nombres. |
+| `02.c` | Se ha descrito la estructura, nomenclatura y funcionalidad de los sistemas de nombres jerárquicos. |
+| `02.d` | Se ha instalado un servicio jerárquico de resolución de nombres. |
+| `02.e` | Se ha preparado el servicio para almacenar las respuestas procedentes de servidores de redes públicas y servirlas a los equipos de la red local. |
+| `02.f` | Se han añadido registros de nombres correspondientes a una zona nueva, con opciones relativas a servidores de correo y alias. |
+| `02.g` | Se ha trabajado en grupo para realizar transferencias de zona entre dos o más servidores. |
+| `02.h` | Se ha comprobado el funcionamiento correcto del servidor. |
 
 ## Resultado de aprendizaje 3 (RA3)
 
@@ -58,15 +53,18 @@ Instala servicios de gestión de archivos web, identificando sus aplicaciones y 
 ### Criterios de evaluación
 
 | Identificador | Criterio |
-| -: | -------- |
-| `03.a` | Se ha establecido la utilidad de un servicio de gestión de archivos web.|
-| `03.b` | Se han descrito diferentes aplicaciones de gestión de archivos web.|
-| `03.c` | Se ha instalado y adaptado una herramienta de gestión de archivos web.|
-| `03.d` | Se han creado y clasificado cuentas de usuario en función de sus permisos. |
-| `03.e` | Se han gestionado archivos y directorios.|
-| `03.f` | Se han utilizado archivos de información adicional.|
-| `03.g` | Se han aplicado criterios de indexación sobre los archivos y directorios.|
-| `03.h` | Se ha comprobado la seguridad del gestor de archivos.|
+| -: | ----------- |
+| `01.a` | |
+| `01.b` | |
+| `01.c` | |
+| `01.d` | |
+| `01.e` | |
+| `01.f` | |
+| `01.g` | |
+| `01.h` | |
+| `01.i` | |
+| `01.j` | |
+| `01.k` | |
 
 ## Resultado de aprendizaje 4 (RA4)
 
@@ -75,14 +73,18 @@ Instala aplicaciones de ofimática web, describiendo sus características y ento
 ### Criterios de evaluación
 
 | Identificador | Criterio |
-| -: | -------- |
-| `04.a` | Se ha establecido la utilidad de las aplicaciones de ofimática web. |
-| `04.b` | Se han descrito diferentes aplicaciones de ofimática web (procesador de textos, hoja de cálculo, entre otras). |
-| `04.c` | Se han instalado aplicaciones de ofimática web.|
-| `04.d` | Se han gestionado las cuentas de usuario.|
-| `04.e` | Se han aplicado criterios de seguridad en el acceso de los usuarios. |
-| `04.f` | Se han reconocido las prestaciones específicas de cada una de las aplicaciones instaladas. |
-| `04.g` | Se han utilizado las aplicaciones de forma colaborativa. |
+| -: | ----------- |
+| `01.a` | |
+| `01.b` | |
+| `01.c` | |
+| `01.d` | |
+| `01.e` | |
+| `01.f` | |
+| `01.g` | |
+| `01.h` | |
+| `01.i` | |
+| `01.j` | |
+| `01.k` | |
 
 ## Resultado de aprendizaje 5 (RA5)
 
@@ -91,13 +93,79 @@ Instala aplicaciones web de escritorio, describiendo sus características y ento
 ### Criterios de evaluación
 
 | Identificador | Criterio |
-| -: | -------- |
-| `05.a` | Se han descrito diferentes aplicaciones web de escritorio. |
-| `05.b` | Se han instalado aplicaciones para proveer de acceso web al servicio de correo electrónico. |
-| `05.c` | Se han configurado las aplicaciones para integrarlas con un servidor de correo. |
-| `05.d` | Se han gestionado las cuentas de usuario. |
-| `05.e` | Se ha verificado el acceso al correo electrónico. |
-| `05.f` | Se han instalado aplicaciones de calendario web. |
-| `05.g` | Se han reconocido las prestaciones específicas de las aplicaciones instaladas (citas, tareas, entre otras). |
+| -: | ----------- |
+| `01.a` | |
+| `01.b` | |
+| `01.c` | |
+| `01.d` | |
+| `01.e` | |
+| `01.f` | |
+| `01.g` | |
+| `01.h` | |
+| `01.i` | |
+| `01.j` | |
+| `01.k` | |
+
+
+
+## Resultado de aprendizaje 6 (RA6)
+
+Instala aplicaciones web de escritorio, describiendo sus características y entornos de uso.
+
+### Criterios de evaluación
+
+| Identificador | Criterio |
+| -: | ----------- |
+| `01.a` | |
+| `01.b` | |
+| `01.c` | |
+| `01.d` | |
+| `01.e` | |
+| `01.f` | |
+| `01.g` | |
+| `01.h` | |
+| `01.i` | |
+| `01.j` | |
+| `01.k` | |
+
+## Resultado de aprendizaje 7 (RA7)
+
+Instala aplicaciones web de escritorio, describiendo sus características y entornos de uso.
+
+### Criterios de evaluación
+
+| Identificador | Criterio |
+| -: | ----------- |
+| `01.a` | |
+| `01.b` | |
+| `01.c` | |
+| `01.d` | |
+| `01.e` | |
+| `01.f` | |
+| `01.g` | |
+| `01.h` | |
+| `01.i` | |
+| `01.j` | |
+| `01.k` | |
+
+## Resultado de aprendizaje 8 (RA8)
+
+Instala aplicaciones web de escritorio, describiendo sus características y entornos de uso.
+
+### Criterios de evaluación
+
+| Identificador | Criterio |
+| -: | ----------- |
+| `01.a` | |
+| `01.b` | |
+| `01.c` | |
+| `01.d` | |
+| `01.e` | |
+| `01.f` | |
+| `01.g` | |
+| `01.h` | |
+| `01.i` | |
+| `01.j` | |
+| `01.k` | |
 
 ---
