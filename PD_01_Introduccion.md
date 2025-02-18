@@ -49,5 +49,3 @@ Educación Formación y Empleo de la Generalitat Valenciana se estructura en:
 
 1. Unidades de competencias que comprenden tanto competencias específicas como aquellas otras determinantes para un adecuado desempeño profesional.
 2. Módulos formativos que constituyen bloques coherentes de formación asociados a cada una de las unidades de competencia. Estas unidades configuran la cualificación y dan forma a la unidad mínima de formación profesional para obtener el título de “Técnico en Sistemas Microinformáticos y Redes” (SMX).
-
-

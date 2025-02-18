@@ -11,7 +11,7 @@ RESET= \e[0m
 
 # Templates 
 TEMPLATE_TEX_PD="./resources/templates/eisvogel.latex"
-PANDOC_OPTIONS="-V fontsize=12pt -V mainfont="./resources/fonts/OFLGoudyStM.otf" --pdf-engine=xelatex "
+PANDOC_OPTIONS=-V fontsize=12pt --pdf-engine=xelatex 
 TEMPLATE_TEX_TASK="./resources/templates/eisvogel.latex"
 
 # PDFS
