@@ -1,7 +1,7 @@
 ---
 # https://github.com/Wandmalfarbe/pandoc-latex-template?tab=readme-ov-file#custom-template-variables
 # https://pandoc.org/MANUAL.html#variables-for-latex
-title: Aplicaciones web
+title: 0227 - Servicios en Red
 subtitle: "Curso 2024-2025"
 author: Opositor Nº 88888888
 lang: es-ES
