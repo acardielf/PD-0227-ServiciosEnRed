@@ -19,12 +19,14 @@ titlepage-rule-color: "360049"
 titlepage-rule-height: 0
 titlepage-background: false
 table-use-row-colors: false
-header-center: ""
+header-left:
 footnotes-pretty: true
-footer-left: \small Ciclo Formativo de Grado Superior - Sistemas Microinformáticos y Redes
+footer-left: \tiny Ciclo Formativo de Grado Superior - Sistemas Microinformáticos y Redes
 mainfont: "Source Sans 3"
 sansfont: "Source Sans 3"
-linestretch: 1.20
+linestretch: 1.25
+papersize: "a4"
+margin-bottom: "80pt"
 ---
 
 \newpage
